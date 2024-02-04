@@ -27,3 +27,5 @@ env.sh
 
 # Directory for sensible files and external files: i.e. env.sh / deployment.yaml
 temp
+
+local-scripts
